@@ -1,0 +1,5 @@
+Arduino project to read temperture 
+from a TMP36 sensor, write it to 
+an SD card, and use a real time 
+clock to set the date and time of 
+the measurement.
