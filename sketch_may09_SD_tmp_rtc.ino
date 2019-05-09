@@ -29,6 +29,7 @@ double Voltage = 0;
 double tempC = 0;
 double tempF = 0;
 char filename[10];
+// filename[10] works with names similar to TEM3.TXT
 
 File myFile;
 void setup(void) {
